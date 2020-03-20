@@ -9,7 +9,7 @@ Usage:
 
 | No.      | Bash Command                    
 |----------|---------------------------------
-wget https://raw.githubusercontent.com/evolutionboy/chen/master/superspeed.sh      
+wget https://raw.githubusercontent.com/evolutionboy/vpnspeed/master/superspeed.sh      
 chmod +x superspeed.sh
 ./superspeed.sh
 ```
@@ -23,8 +23,8 @@ Usage:
 
 | No.      | Bash Command                    |
 |----------|---------------------------------|
-| 1        | wget -qO- https://raw.githubusercontent.com/evolutionboy/chen/master/superbench.sh | bash       |
-| 2        | curl -Lso- https://raw.githubusercontent.com/evolutionboy/chen/master/superbench.sh | bash      |
-```
+wget -qO- https://raw.githubusercontent.com/evolutionboy/vpnspeed/master/superbench.sh | bash       |
+curl -Lso- https://raw.githubusercontent.com/eevolutionboy/vpnspeed/master/superbench.sh | bash      |
+
  
 
